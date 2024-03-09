@@ -1,21 +1,21 @@
-#Employee Management System
+# Employee Management System
 This is a simple C program for managing employee details. It allows users to input information
 such as employee ID, name, salary, and age for multiple employees, and then displays the entered 
 details.
 
-##Instructions:
+## Instructions:
 
 1. Run the program.
 2. Enter the number of employees (up to 1000).
 3. For each employee, input their ID, name, salary, and age as prompted.
 
-##How to Compile and Run:
+## How to Compile and Run:
 ```
 gcc employee_management.c -o employee_management
 ./employee_management
 ```
 
-##Sample Output:
+## Sample Output:
 ```
 Enter the number of employees (up to 1000): 2
 Enter the id of employee 1: 101
